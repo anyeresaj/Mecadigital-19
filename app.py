@@ -9,6 +9,7 @@
 from flask import Flask, request
 # Importamos CORS del módulo flask_cors. CORS nos permitirá manejar las solicitudes de diferentes orígenes.
 from flask_cors import CORS
+
 # sqrt de math para calcular sqrt
 from math import sqrt
 import cmath
